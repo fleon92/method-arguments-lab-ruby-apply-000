@@ -1,3 +1,4 @@
+# The method below is programmed to accept a
 def introduction(name)
   puts "Hi, my name is #{name}."
 end
