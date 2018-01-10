@@ -1,4 +1,4 @@
-# The method below is programmed to accept a
+# The method below is programmed to accept an argument
 def introduction(name)
   puts "Hi, my name is #{name}."
 end
